@@ -1,0 +1,10 @@
+: What is the height of cricket wickets?;26 inches (66 cm);27 inches (68.6 cm);28 inches (71.12 cm);c
+: When Islamabad united won first title of PSL?;22 Feb 2016;23 Feb 2016;24 Feb 2016;c
+: ICC founded in the year?;1905;1910;1909;c
+: The ICC Under-19 World Cup 2018 was played in?;India;South Africa;New Zealand;c
+: Which team won the ICC Under-19 World Cup 2018?;India;Australia;South Africa;a
+: Quaid-e-Azam Trophy is the tournament of?;Football;Cricket;Hockey;b
+: Australia won the Ashes series,2017-18 by?;3-2;4-1;4-0;c
+: ICC stands for?;International cricket conference;International cricket council;International cricket club;b
+: Pakistan lost the cricket World cup final in?;1992;1994;1999;c
+: ODI stands for?;One day international;Overseas Development Institute;Oracle Data Integrator;a

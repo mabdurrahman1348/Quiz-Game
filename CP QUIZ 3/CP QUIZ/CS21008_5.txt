@@ -1,0 +1,17 @@
+Player:- Hammad his/her score is 4.
+Player:- Sameer his/her score is 4.
+Player:- Sarim his/her score is 2.
+Player:- Usama his/her score is 4.
+Player:- Aisha his/her score is 7.
+Player:- Usama his/her score is 0.
+Player:- Usman his/her score is 5.
+Player:- King his/her score is 2.
+Player:- Sara his/her score is 3.
+Player:- Hammad1 his/her score is 5.
+Player:- Narmeen his/her score is 5.
+Player:- Fatima his/her score is 5.
+Player:- Rooman his/her score is 5.
+Player:- Noman his/her score is 5.
+Player:- Sameen his/her score is 1.
+Player:- Taha his/her score is 4.
+Player:- usama his/her score is 6.

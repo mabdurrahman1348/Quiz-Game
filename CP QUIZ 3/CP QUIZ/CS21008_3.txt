@@ -1,0 +1,10 @@
+:- Who is the first president of the constitution assembly of Pakistan?;a)liaquat Ali khan;b)Moulvi tameez;c)Sardar Abdur Rab;d)Quaid-e-Azam;d
+:- After how many years did Pakistan get its first constitution?;a)7 years;b)11 years;c)9 years;d)5 years;d
+:- What document was first drafted to give pace to the constitution-making king process?;a)Objective resolution;b)Reprentative act;c)Independence act;d)Pakistan act;d
+:- When did the constituent Assembly pass the Objective resolution?;a)12th March 1949;b)9th March 1949;c)14th Feburary 1949;d)15th August 1949;d
+:- When did Mohammad Ali Bogra present Bogra Formula in the assembly?;a)October 1953;b)April 1953;c)January 1953;d)September 1953;d
+:- When the first constitution of Pakistan was enforced?;a)23rd March 1956;b)14th August 1956;c)8th June 1956;d)25th December 1956;d
+:- What official name was given to Pakistan in the 1956 constitution?;a)Islamic Pakistan;b)Islamic Republic of Pakistan;c)United states of Pakistan;d)Islam Pakistan;b
+:- Shah Waliullah real name was.;a)Qutubuddin;b)Mohiuddin;c)Nazimuddin;d)Imamuddin;a
+:- The border between Pakistan and Afghanistan is called?;a)Redcliffe line;b)Durand line;c)Ceasefire line;d)Peace ine;b
+:- Which is the second-largest freshwater lake in Pakistan?;a)Manchar Lake;b)Keenjhar lake;c)Rawal lake;d)Saif-ul-Muluk lake;b

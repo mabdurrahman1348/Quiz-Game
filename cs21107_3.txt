@@ -1,0 +1,10 @@
+: What color does yellow and green make?;Lime;Ocean mist;Maroon;b
+: Ctrl, Shift and Alt are called .......... keys?;Modifier;Function;Adjustment;a
+: MS-Word is an example of _____.;An operating system;A processing device;Application software;c
+: Which animal has fingerprints that closely resemble a humans fingerprints?;Monkey;Koala;Tiger;b
+: What is both the largest and heaviest solid internal organ in the human body?;Liver;Gall bladder;Heart;a
+: How many bones can you find in a shark?;350;600;Zero;c
+: How long does it take for the light from the Sun to reach the Earth?;7 minutes;9 minutes and 10 seconds;8 minutes and 20 seconds;c
+: What is known as the fastest land snake on the ground and based on strike speed?;Anaconda;Black Mamba;Cobra;b
+: What country experiences the most tsunamis?;Malaysia;Indonesia;Japan;b
+: How many Earth days does it take to complete one day in Venus?;230;243;110;b

@@ -1,0 +1,10 @@
+:- MS-Word is an example of ________.;a)An operating system;b)A processing device;c)Application software;d)An input device;c
+:- Ctrl, Shift, and Alt are called ________. keys.;a)modifier;b)function;c)alphanumeric;d)adjustment;a
+:- A computer cannot "boot" if it does not have the _____;a)Compiler;b)Loader;c)Operating system;d)Assembler;c
+:- ________ is the process of dividing the disk into tracks and sectors;a)Tracking;b)Formatting;c)Crashing;d)Allotting;b
+:- By default, your documents print in _________ mode.;a)Landscape;b)Portrait;c)Page Setup;d)Print View;d
+:- Storage capacity of magnetic disk depends on ___________.;a)disk pack in disk surface;b)Tracks per inch of surface;c)bits per inch of tracks;d)All of the above;d
+:- Several computers linked to a server to share programs and storage space________.;a)Network;b)Grouping;c)Library;d)Integrated system;a
+:- Where is RAM located?;a)Mother Board;b)Expansion Board;c)External Drive;d)None;a
+:- Hardware devices that are not part of the main computer system and are often added later to the system.;a)Peripheral;b)Clip art;c)Highlight;d)Execute;a
+:- Google (www.google.com) is a _________.;a)Search Engine;b)Number in Math;c)Directory of images;d)Chat service on the web;a
